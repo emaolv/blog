@@ -24,9 +24,9 @@ git commit -m 'deploy'
 # 如果发布到https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
-# git push -f git@github.com:emaolv/blog.git master:gh-pages
+git push -f git@github.com:emaolv/blog.git master:gh-pages
 # 如果使用travis 持续集成
-git push -f http://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@github.com/emaolv/blog.git master:gh-pages
+#git push -f http://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@github.com/emaolv/blog.git master:gh-pages
 
 cd -
 
