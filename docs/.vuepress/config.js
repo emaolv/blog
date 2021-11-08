@@ -1,12 +1,12 @@
 module.exports = {
     base: '/blog/',
+    title: '测试开发-小黑',
+    description: '测试开发进阶之路',
+    head: [
+      ['link', {rel: 'icon', href: '/favico.ico'}]
+    ],
     themeConfig: {
-        repo: 'https://github.com/emaolv/blog',
-        repoLabel: 'Blog',
-        nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Guide', link: '/guide/' },
-          { text: 'External', link: 'https://google.com' },
-        ]
-      }
+      nav: require('./nav'),
+      sidebar: require('./sidebar')
+    }
 }
