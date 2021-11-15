@@ -11,5 +11,12 @@ module.exports = {
       sidebar: require('./sidebar'),
       searhMaxSuggestions: 10,
       lastUpdated: 'Last Updated', // string | boolean
-    }
+    },
+    plugins: {
+      '@vuepress/blog':{}
+    },
+    // plugins: ['@vuepress/blog'],
+    '@vuepress/google-analytics': {
+      'ga': 'UA-166594741-1' // UA-00000000-0
+  }
 }

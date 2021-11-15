@@ -1,17 +1,18 @@
 module.exports = [
     {
-        text: '电子书',
-        items: [
-            {text: '软件开发类', link: '/ebook/coo/'},
-            {text: '运营类', link: '/ebook/sdet/'}
-        ]
-    },
-    {
         text: '读书笔记',
         items: [
-            {text: '从零开始做内容：爆款内容的底层逻辑', link: '/ebook/coo/从零开始做内容/'},
-            {text: '抖音运营', link: '/ebook/coo/抖音运营/'},
-            {text: '秒赞', link: '/ebook/coo/秒赞/'}
+            {text: '运营类', 
+            items: [
+                {text: '从零开始做内容：爆款内容的底层逻辑', link: '/ebook/coo/从零开始做内容/'},
+                {text: '抖音运营', link: '/ebook/coo/抖音运营/'},
+                {text: '秒赞', link: '/ebook/coo/秒赞/'}
+            ]
+        },
+            {text: '测试开发类', items: [
+                {text: '持续集成软件质量改进和风险降低之道', link: '/ebook/sdet/持续集成软件质量改进和风险降低之道/'},
+                {text: '饿了么质量体系搭建实战', link: '/ebook/sdet/饿了么质量体系搭建实战/'},
+            ]}
         ]
     },
     {
