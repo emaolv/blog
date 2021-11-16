@@ -5,7 +5,7 @@ module.exports = [
             {text: '运营类', 
             items: [
                 {text: '从零开始做内容：爆款内容的底层逻辑', link: '/ebook/coo/从零开始做内容/'},
-                {text: '抖音运营', link: '/ebook/coo/抖音运营/'},
+                {text: '爆款抖音短视频', link: '/ebook/coo/爆款抖音短视频/'},
                 {text: '秒赞', link: '/ebook/coo/秒赞/'}
             ]
         },
