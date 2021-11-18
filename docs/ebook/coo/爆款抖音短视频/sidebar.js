@@ -11,10 +11,8 @@ module.exports = [
             '/ebook/coo/爆款抖音短视频/第六章内容结构',
             '/ebook/coo/爆款抖音短视频/第七章标题',
             '/ebook/coo/爆款抖音短视频/第八章评论',
-            '/ebook/coo/爆款抖音短视频/第九章盈利',
+            '/ebook/coo/爆款抖音短视频/第九章变现',
             '/ebook/coo/爆款抖音短视频/第十章工具',
-
-
         ]
     }
 ]
