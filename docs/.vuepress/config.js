@@ -1,5 +1,4 @@
 module.exports = {
-    base: '/blog/',
     title: '测试开发-小黑',
     description: '测试开发进阶之路',
     head: [
