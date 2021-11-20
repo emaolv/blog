@@ -6,6 +6,9 @@
   "author": "jia",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
     "vuepress": "^1.8.2"
   },
   "scripts": {

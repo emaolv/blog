@@ -11,4 +11,6 @@ features:
   details: 面对职业发展的焦虑,本阶段将从机遇与挑战的视角与你一起分析和破解焦虑难题,扬长避短,轻松走向人生巅峰.
 
 footer: MIT Licensed | © 2021-present 小黑
+
+https://blogonline.oss-cn-beijing.aliyuncs.com/
 ---
