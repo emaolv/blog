@@ -7,7 +7,8 @@ module.exports = [
                 {text: '从零开始做内容：爆款内容的底层逻辑', link: '/ebook/coo/从零开始做内容/'},
                 {text: '爆款抖音短视频', link: '/ebook/coo/爆款抖音短视频/'},
                 {text: '引爆写作力', link: '/ebook/coo/引爆写作力/'},
-                {text: '玩转教育直播间', link: '/ebook/coo/玩转教育直播间/'}
+                {text: '玩转教育直播间', link: '/ebook/coo/玩转教育直播间/'},
+                {text: '内容经济', link: '/ebook/coo/内容经济/'}
             ]
         },
             {text: '测试开发类', items: [
